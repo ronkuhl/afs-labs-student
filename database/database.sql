@@ -1,4 +1,4 @@
---
+-- comment
 -- PostgreSQL database dump
 --
 
